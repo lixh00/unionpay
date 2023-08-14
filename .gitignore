@@ -1,0 +1,8 @@
+.idea
+vendor
+logs
+*build*
+debug
+dist
+
+*_deleted*
